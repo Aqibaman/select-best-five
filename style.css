@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Berkshire+Swash&family=Poppins&display=swap');
+
+
+header .head-line {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 60px;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 400px;
+}
+
+header .middle-line {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 410px;
+}
+
+header .last-line {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 408px;
+}
+
+.pictures {
+
+    float: left;
+    height: 300px;
+    object-fit: cover;
+}
+
+.selected-header {
+    font-family: 'Berkshire Swash', cursive;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.orange {
+    color: #FF5E19;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+}
